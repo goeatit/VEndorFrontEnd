@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fa6b037.css",
-    "main.js": "/static/js/main.2e4b1c26.js",
+    "main.css": "/static/css/main.eefaa9f1.css",
+    "main.js": "/static/js/main.9a0b9084.js",
     "static/js/453.b1540a93.chunk.js": "/static/js/453.b1540a93.chunk.js",
     "static/media/Rectangle 2.png": "/static/media/Rectangle 2.c4b550632881a2191a7e.png",
     "static/media/Rectangle 5.png": "/static/media/Rectangle 5.6cde725571ecae0232a8.png",
@@ -18,18 +18,21 @@
     "static/media/order.svg": "/static/media/order.7cada9bde0f7636ac4318c83d789c3da.svg",
     "static/media/home.svg": "/static/media/home.587b093b3d3c4bdf7ea2b81b2324184b.svg",
     "static/media/copy.svg": "/static/media/copy.5cdb825f0a1d01cd88763d78473fba07.svg",
+    "static/media/Bell.svg": "/static/media/Bell.51758cdfeb9b8c95e8cf4d6e33f116c1.svg",
     "static/media/passwordHide.svg": "/static/media/passwordHide.188546e2a7c097ff0eeb7164101c0bd7.svg",
     "static/media/Revenue.svg": "/static/media/Revenue.e3ff2784898eb03092baec6d0e886eac.svg",
+    "static/media/search.svg": "/static/media/search.ed8f519a10e5ff5f72c06022dad0d65b.svg",
     "static/media/EyeFill.svg": "/static/media/EyeFill.8bf75b8cad5b58e97b80d33f0a45e0be.svg",
     "index.html": "/index.html",
     "static/media/settings.svg": "/static/media/settings.a56d3f0af001e316097f70393fe6d5fe.svg",
+    "static/media/Messa.svg": "/static/media/Messa.5110bc4bbbcf2e53a4c9c9a98dca724e.svg",
     "static/media/filter.svg": "/static/media/filter.e6927e1518eac9257c156fb0464224ea.svg",
-    "main.1fa6b037.css.map": "/static/css/main.1fa6b037.css.map",
-    "main.2e4b1c26.js.map": "/static/js/main.2e4b1c26.js.map",
+    "main.eefaa9f1.css.map": "/static/css/main.eefaa9f1.css.map",
+    "main.9a0b9084.js.map": "/static/js/main.9a0b9084.js.map",
     "453.b1540a93.chunk.js.map": "/static/js/453.b1540a93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fa6b037.css",
-    "static/js/main.2e4b1c26.js"
+    "static/css/main.eefaa9f1.css",
+    "static/js/main.9a0b9084.js"
   ]
 }
