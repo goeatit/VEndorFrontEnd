@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d118b1d9.css",
-    "main.js": "/static/js/main.87a67d79.js",
+    "main.css": "/static/css/main.56bc1eda.css",
+    "main.js": "/static/js/main.f47a2b52.js",
     "static/js/206.9b4f5442.chunk.js": "/static/js/206.9b4f5442.chunk.js",
     "static/media/Rectangle 2.png": "/static/media/Rectangle 2.c4b550632881a2191a7e.png",
     "static/media/Rectangle 5.png": "/static/media/Rectangle 5.6cde725571ecae0232a8.png",
@@ -23,6 +23,7 @@
     "static/media/totalOrders.svg": "/static/media/totalOrders.3c4f8ac903261de296ce2e25c26cf7cb.svg",
     "static/media/order.svg": "/static/media/order.7cada9bde0f7636ac4318c83d789c3da.svg",
     "static/media/home.svg": "/static/media/home.587b093b3d3c4bdf7ea2b81b2324184b.svg",
+    "static/media/Notification.svg": "/static/media/Notification.2c0c7eb917e2d1d176d02ff430f88fbc.svg",
     "static/media/copy.svg": "/static/media/copy.5cdb825f0a1d01cd88763d78473fba07.svg",
     "static/media/trash.svg": "/static/media/trash.82a4594599c0e8cc89cfe1c86d5bad39.svg",
     "static/media/ViewFile.svg": "/static/media/ViewFile.69cb6fc7b85f268f9140c9b5820822dc.svg",
@@ -46,7 +47,7 @@
     "static/media/DownArrow.svg": "/static/media/DownArrow.c2219324a0fa3a06faef800a3e685dfb.svg"
   },
   "entrypoints": [
-    "static/css/main.d118b1d9.css",
-    "static/js/main.87a67d79.js"
+    "static/css/main.56bc1eda.css",
+    "static/js/main.f47a2b52.js"
   ]
 }
