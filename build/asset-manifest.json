@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba41f6fc.css",
-    "main.js": "/static/js/main.8eb70f39.js",
+    "main.css": "/static/css/main.a622827d.css",
+    "main.js": "/static/js/main.8cd75ca0.js",
     "static/js/206.9b4f5442.chunk.js": "/static/js/206.9b4f5442.chunk.js",
     "static/media/Rectangle 2.png": "/static/media/Rectangle 2.c4b550632881a2191a7e.png",
     "static/media/Rectangle 5.png": "/static/media/Rectangle 5.6cde725571ecae0232a8.png",
@@ -47,7 +47,7 @@
     "static/media/DownArrow.svg": "/static/media/DownArrow.c2219324a0fa3a06faef800a3e685dfb.svg"
   },
   "entrypoints": [
-    "static/css/main.ba41f6fc.css",
-    "static/js/main.8eb70f39.js"
+    "static/css/main.a622827d.css",
+    "static/js/main.8cd75ca0.js"
   ]
 }
